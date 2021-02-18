@@ -1,6 +1,6 @@
 # Comando Git e GitHub 
 
-##Aula realizada pela Digital Inonvation One: 
+##Aula realizada pela Digital Innovation One: 
 
 * Introdução  ao Git e GitHub
 
